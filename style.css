@@ -3,3 +3,20 @@
     border-color: darkgray;
     background-color: white;
 }
+.img-container{
+    position: relative;
+}
+.img-container img{
+    width: 100%;
+}
+.img-container h2{
+    position:absolute;
+    background-color: aquamarine;
+    padding:20px 10px;
+    width: 100%;
+    text-align:center;
+    bottom: 50px;
+}
+title {
+    color: aquamarine;
+}
