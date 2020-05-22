@@ -1,69 +1,73 @@
 .container {
-    border: solid 2px;
-    border-color: darkgray;
-    background-color: white;
+  border: solid 2px;
+  border-color: darkgray;
+  background-color: white;
 }
 .img-container {
-    position: relative;
+  position: relative;
 }
-.img-container img{
-width: 100%;
-} 
-.img-container h2{
-position: absolute;
-background-color: lightseagreen;
-padding: 20px 10 px;
-width: 100%;
-text-align: center;
-bottom: 50px;
+.img-container img {
+  width: 100%;
+}
+.img-container h2 {
+  position: absolute;
+  background-color: lightseagreen;
+  padding: 20px 10px;
+  width: 100%;
+  text-align: center;
+  bottom: 50px;
+}
+.img-fluid {
+  max-width: 300px;
+  max-height: 300px;
 }
 .card-title {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: lightseagreen;
-    font-size: 30px;
-    font-weight: 400;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightseagreen;
+  font-size: 30px;
+  font-weight: 400;
 }
 .navbar-brand {
-    background-color: lightseagreen;
-    color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: lightseagreen;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .nav-item {
-    position: relative;
+  position: relative;
 }
 .navbar {
-    border: 2px black solid;
-    margin-bottom: 4%;
+  border: 2px black solid;
+  margin-bottom: 4%;
 }
 footer {
-       position: fixed;
-       height: 4%;
-       left: 0;
-       bottom: 0;
-       width: 100%;
-       background-color: grey;
-        color: white;
-        text-align: center;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: fixed;
+  height: 4%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 hr {
-    position: fixed;
-    height: 4%;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: lightseagreen;
+  position: fixed;
+  height: 4%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightseagreen;
 }
 body {
-    background-color: lightgrey;
+  background-color: lightgrey;
 }
 .form-control {
-    width: 50%
+  width: 50%;
 }
 .form-control-lg {
-    width: 50%;
-    height: 100px;
-    padding: 10px;
-    border: 1px solid lightgrey;
-    display: inline-block;
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid lightgrey;
+  display: inline-block;
 }
