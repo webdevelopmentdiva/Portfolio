@@ -7,3 +7,5 @@ https://github.com/webdevelopmentdiva/Portfolio
 ![GitHub Logo](/assets/assets/ScreenShot1.png)
 ![GitHub Logo](/assets/assets/ScreenShot2.png)
 ![GitHub Logo](/assets/assets/ScreenShot3.png)
+
+## Updated with on click functions for the portfolio images
